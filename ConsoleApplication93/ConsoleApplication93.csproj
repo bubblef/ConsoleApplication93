@@ -45,19 +45,26 @@
     <Compile Include="Class2.cs" />
     <Compile Include="Class3.cs" />
     <Compile Include="Class4.cs" />
+    <Compile Include="Interface1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Struct1.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="asdkjaksjd.dll" />
+    <Content Include="BOOTNXT" />
+    <Content Include="ConsoleApplication93.exe" />
+    <Content Include="ConsoleApplication93.exe.mdb" />
     <Content Include="fsdfsd.dll" />
     <Content Include="ghgfj.sqlite" />
+    <Content Include="kjasd.bin" />
     <Content Include="lkk.dll" />
     <Content Include="sdfsdf.dll" />
     <Content Include="sdfsdf.sqlite" />
     <Content Include="sdfsfd.bin" />
     <Content Include="sq.sqlite" />
     <Content Include="sqs.sqlite" />
+    <Content Include="test\bin.bin" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
